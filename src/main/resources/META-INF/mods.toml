@@ -1,0 +1,29 @@
+modLoader="javafml"
+loaderVersion="[40,)"
+license="MIT"
+
+[[mods]]
+modId="snowcoated"
+version="${file.jarVersion}"
+displayName="Snow Coated API"
+#updateJSONURL="https://change.me.example.invalid/updates.json"
+#displayURL="https://change.me.to.your.mods.homepage.example.invalid/"
+#logoFile=""
+#credits=""
+authors="Max Hyper"
+description='''
+This is a small mod that allows developers to customize what blocks snow can be placed on
+'''
+
+[[dependencies.snowcoated]]
+    modId="forge"
+    mandatory=true
+    versionRange="[40,)"
+    ordering="NONE"
+    side="BOTH"
+[[dependencies.snowcoated]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.18.2,1.19)"
+    ordering="NONE"
+    side="BOTH"

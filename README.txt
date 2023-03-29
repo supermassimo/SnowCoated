@@ -1,0 +1,1 @@
+This is a very simple and lightweight mod that allows you to change what blocks snow layers can be placed on by using blocktags.

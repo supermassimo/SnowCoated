@@ -1,0 +1,12 @@
+{
+  "required": true,
+  "package": "com.maxhyper.snowcoated.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "mixins": [
+    "MixinSnowLayerBlock"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  },
+  "refmap": "snowcoatedapi.refmap.json"
+}

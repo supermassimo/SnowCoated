@@ -6,13 +6,13 @@ license="MIT"
 modId="snowcoated"
 version="${file.jarVersion}"
 displayName="Snow Coated API"
-#updateJSONURL="https://change.me.example.invalid/updates.json"
-#displayURL="https://change.me.to.your.mods.homepage.example.invalid/"
+updateJSONURL="https://github.com/supermassimo/SnowCoated/blob/main/version_info.json"
+displayURL="https://www.curseforge.com/minecraft/mc-mods/snow-coated"
 #logoFile=""
 #credits=""
 authors="Max Hyper"
 description='''
-This is a small mod that allows developers to customize what blocks snow can be placed on
+This is a small mod that allows customization of what blocks snow layers can be placed on.
 '''
 
 [[dependencies.snowcoated]]
